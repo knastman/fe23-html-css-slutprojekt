@@ -5,4 +5,4 @@ Front end webbutvecklare 200 YH-poäng - Grit Academy
 (2023-2025)
 
 #### Kurs
-FE23 | JavaScript 1
+FE23 | HTML & CSS

@@ -1,6 +1,4 @@
-# Slutprojekt HTML/CSS
-Inlämningsuppgift 2 - Portfolio - Kurs HTML/CSS - Front end webbutvecklare 200 YHp (2023 -2025)
-
+# Slutprojekt HTML/CSS - Portfolio
 
 #### Projekt på utbildningen:
 Front end webbutvecklare 200 YH-poäng - Grit Academy  

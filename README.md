@@ -1,7 +1,7 @@
 # Slutprojekt HTML/CSS - Portfolio
 
 #### Projekt på utbildningen:
-Front end webbutvecklare 200 YH-poäng - Grit Academy  
+[Front end webbutvecklare](https://gritacademy.se/front-end-webbutvecklare/) 200 YH-poäng - [Grit Academy](https://gritacademy.se/)  
 (2023-2025)
 
 #### Kurs
